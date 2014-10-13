@@ -13,4 +13,5 @@ Installation:
 Steps for Git usage:
 ---------------------------
 
-1. git clone "http://github url"
+1. Go to git bash
+2. Run git clone "http://github url"
